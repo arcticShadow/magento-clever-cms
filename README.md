@@ -46,4 +46,4 @@ or download package manually:
 
 ## Full overview
 
-I wrote an article on my blog for full extension overview, [click here](http://www.johannreinke.com/en/2012/01/10/magento-cms-pages-in-a-tree-structure/).
+I wrote an article on my blog for full extension overview, [click here](http://bubbleco.de/en/2012/01/10/magento-cms-pages-in-a-tree-structure/).
