@@ -1,0 +1,14 @@
+/app/code/community/JR/CleverCms /app/code/community/JR/CleverCms
+/app/design/adminhtml/default/clever/layout/local.xml /app/design/adminhtml/default/clever/layout/local.xml
+/app/design/adminhtml/default/clever/template/cms/page/ajax-edit.phtml /app/design/adminhtml/default/clever/template/cms/page/ajax-edit.phtml
+/app/design/adminhtml/default/clever/template/cms/page/edit-container.phtml /app/design/adminhtml/default/clever/template/cms/page/edit-container.phtml
+/app/design/adminhtml/default/clever/template/cms/page/index.phtml /app/design/adminhtml/default/clever/template/cms/page/index.phtml
+/app/design/adminhtml/default/clever/template/cms/page/permissions/index.phtml /app/design/adminhtml/default/clever/template/cms/page/permissions/index.phtml
+/app/design/adminhtml/default/clever/template/cms/page/permissions/tree.phtml /app/design/adminhtml/default/clever/template/cms/page/permissions/tree.phtml
+/app/design/adminhtml/default/clever/template/cms/page/store/switcher.phtml /app/design/adminhtml/default/clever/template/cms/page/store/switcher.phtml
+/app/design/adminhtml/default/clever/template/cms/page/tree.phtml /app/design/adminhtml/default/clever/template/cms/page/tree.phtml
+/app/design/adminhtml/default/clever/template/customer/group/switcher.phtml /app/design/adminhtml/default/clever/template/customer/group/switcher.phtml
+/app/design/frontend/default/clever/template/catalog/navigation/top.phtml /app/design/frontend/default/clever/template/catalog/navigation/top.phtml
+/app/design/frontend/default/clever/template/page/html/topmenu.phtml /app/design/frontend/default/clever/template/page/html/topmenu.phtml
+/app/etc/modules/JR_CleverCms.xml /app/etc/modules/JR_CleverCms.xml
+/app/locale/fr_FR/JR_CleverCms.csv /app/locale/fr_FR/JR_CleverCms.csv

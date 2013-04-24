@@ -1,0 +1,16 @@
+{
+  "name": "jr/clevercms",
+  "type": "magento-module",
+  "license": "gpl",
+  "homepage": "", 
+  "description": "Clever Cms by JR",
+  "authors": [
+    {   
+      "name": "JR",
+      "email": ""
+    }   
+  ],  
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*",
+  }
+}            
