@@ -1,7 +1,12 @@
 <?php
 
-//class JR_CleverCms_Block_Catalog_Navigation extends Mage_Catalog_Block_Navigation
-class JR_CleverCms_Block_Catalog_Navigation extends MageParts_RestrictCategories_Block_Catalog_Navigation
+if( class_exists('MageParts_RestrictCategories_Block_Catalog_Navigation') ){
+	class elder extends MageParts_RestrictCategories_Block_Catalog_Navigation {}
+}else{
+	class elder extends Mage_Catalog_Block_Navigation {}
+}
+
+class JR_CleverCms_Block_Catalog_Navigation extends elder
 {
     const CACHE_TAG = 'catalog_navigation';
 
